@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @afpd
+- 👋 Hi, I’m Aliaksei Sheshka
 - 👀 I’m interested in network automation and networking in general
-- 🌱 I’m currently learning some cryptography concepts
-- 📫 How to reach me als@gmx.us, https://www.linkedin.com/in/aliaksei-sheshka-1bab7257/
+- 📫 How to reach me als@gmx.us
 
 <!---
 afpd/afpd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
